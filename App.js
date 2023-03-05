@@ -10,6 +10,7 @@ import styles from './App.scss';
  * IDEA >
  * [obj] => flat into pices with inheritance and bla bla
  *
+ * a:{b:2,sub:{aa:1}} => a:{b:2},sub:{aa:1}
  */
 
 const nest = {
