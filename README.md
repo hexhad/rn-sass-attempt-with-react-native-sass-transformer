@@ -4,7 +4,7 @@
 
 ### lets try other trick
 
-## im too lazy to type same thing again and again (will try another method) 
+## im too lazy to type same thing again and again (will try another method)
 
 ![](/imgs/1.JPG)
 ![](/imgs/2.gif)
