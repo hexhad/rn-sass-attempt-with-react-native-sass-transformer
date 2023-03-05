@@ -4,6 +4,6 @@
 
 ### lets try other trick
 
-## im too lazy to type same thing again and again (lets use inheritance)
+## im too lazy to type same thing again and again (will try inheritance)
 
-![](https://giphy.com/embed/jsIa0hyKnzhQRDYObr)
+![](/imgs/1.gif)
