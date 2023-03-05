@@ -1,0 +1,19 @@
+$red: red;
+%blue {
+  color: blue;
+}
+.myClass {
+  @extend %blue;
+}
+.redColor {
+  color: $red;
+}
+.my-dashed-class {
+  color: #946707;
+}
+
+.main{
+    .nsesting{
+        @extend %blue;
+    }
+}
